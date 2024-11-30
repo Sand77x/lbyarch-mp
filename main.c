@@ -51,7 +51,7 @@ int main()
         int truth = sanity_check(vi, vf, t);
         if (accel == truth) {
             correct++; // inc correct counter
-            // printf("%d (v)\n", accel);
+            printf("%d (v)\n", accel);
         } else {
             printf("%d (should be %d)\n", accel, truth);
         }

@@ -25,7 +25,7 @@ $(OUT): $(C_OBJ) $(AS_OBJ)
 	$(AS) $(ASFLAGS) $< -o $@
 
 clean: 
-	rm -f *.o *.exe
+	rm -f *.o *.exe *.txt
 
 run:
 	./$(OUT)
