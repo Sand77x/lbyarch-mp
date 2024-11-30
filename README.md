@@ -23,7 +23,7 @@ Input format is as follows:
 - one integer Y representing the number of rows of input  
 - Y * 3 numbers representing the Vi, Vf, and T of each row (in that order)
 
-## Execution times
+## Execution times (in ms)
 
 | Y        | Avg    | Highest | Lowest |
 | -------- | ------ | ------- | ------ |
