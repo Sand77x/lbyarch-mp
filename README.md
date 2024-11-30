@@ -10,7 +10,7 @@ __Video__: https://youtu.be/RwF4CC1teZ4
 
 ## Installation
 
-Download of clone this project into a directory of your choice
+Download or clone this project into a directory of your choice.
 
 ## Running
 
@@ -21,7 +21,7 @@ For building in a terminal with make, run `make` then `./main.exe` to achieve th
 ### Input format
 Input format is as follows:
 - one integer Y representing the number of rows of input  
-- Y * 3 numbers representing the Vi, Vf, and T of each row (in that order)
+- then Y * 3 numbers representing the Vi, Vf, and T of each row (in that order)
 
 ## Execution times (in ms)
 
@@ -37,7 +37,7 @@ Input format is as follows:
 
 ### Analysis
 
-As expected, the runtime gets longer the more function calls there are. Based on the chart, it grows linearly as can be seen with in the average times. 
+As expected, the runtime gets longer the more function calls there are. Based on the chart, it grows linearly as can be seen with the average times. 
 
 ### Screenshots
 
