@@ -16,7 +16,7 @@ Download or clone this project into a directory of your choice.
 
 For Visual Studio users, run or debug the program using your selected compiler. Note: you will need `nasm.exe` in your PATH for this to work. This will build the program and wait for input. 
 
-For building in a terminal with make, run `make` then `./main.exe` to achieve the same effect. To make samples, run `make samples N_SAMPLES=<number>` where `number` is the amount of samples you want. Afterwards, type `main.exe < sample_input.txt` to run the newly generated samples. A batch file called `run.bat` also exists if you want to see program execution times for multiple Y values.
+For building in a terminal with make, run `make` then `./main.exe` to achieve the same effect.
 
 ### Input format
 Input format is as follows:
