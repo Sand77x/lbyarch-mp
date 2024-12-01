@@ -32,8 +32,8 @@ Input format is as follows:
 | 1000     | 0            | 0 - 0           | 0       | 0 - 0           |
 | 10000    | 0.33         | 0.00 - 1.00     | 0.20    | 0.00 - 1.00     |
 | 100000   | 3.00         | 1.00 - 5.00     | 2.40    | 0.00 - 5.00     |
-| 1000000  | 29.07        | 19.00 - 37.00   | 0       | 0 - 0           |
-| 10000000 | 289.83       | 267.00 - 327.00 | 0       | 0 - 0           |
+| 1000000  | 29.07        | 19.00 - 37.00   | 24.03   | 13.00 - 32.00   |
+| 10000000 | 289.83       | 267.00 - 327.00 | 232.47  | 206.00 - 265.00 |
 ### Analysis
 
 As expected, the runtime gets longer the more function calls there are. Based on the chart, it grows linearly as can be seen with the average times. 

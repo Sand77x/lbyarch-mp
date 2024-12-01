@@ -1,0 +1,1063 @@
+"Y = 10"
+Wrote 10 samples in sample_input.txt.
+RUN 1
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 2
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 3
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 4
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 5
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 6
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 7
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 8
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 9
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 10
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 11
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 12
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 13
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 14
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 15
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 16
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 17
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 18
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 19
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 20
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 21
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 22
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 23
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 24
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 25
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 26
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 27
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 28
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 29
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 30
+(10/10) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+"Y = 100"
+Wrote 100 samples in sample_input.txt.
+RUN 1
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 2
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 3
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 4
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 5
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 6
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 7
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 8
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 9
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 10
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 11
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 12
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 13
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 14
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 15
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 16
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 17
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 18
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 19
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 20
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 21
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 22
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 23
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 24
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 25
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 26
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 27
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 28
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 29
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 30
+(100/100) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+"Y = 1000"
+Wrote 1000 samples in sample_input.txt.
+RUN 1
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 2
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 3
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 4
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 5
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 6
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 7
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 8
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 9
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 10
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 11
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 12
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 13
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 14
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 15
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 16
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 17
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 18
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 19
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 20
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 21
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 22
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 23
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 24
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 25
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 26
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 27
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 28
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 29
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 30
+(1000/1000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+"Y = 10000"
+Wrote 10000 samples in sample_input.txt.
+RUN 1
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 2
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 1.00ms
+
+RUN 3
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 4
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 5
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 6
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 7
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 8
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 9
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 10
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 1.00ms
+
+RUN 11
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 12
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 13
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 1.00ms
+
+RUN 14
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 15
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 16
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 17
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 18
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 1.00ms
+
+RUN 19
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 20
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 21
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 22
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 1.00ms
+
+RUN 23
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 24
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 25
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 26
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 27
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+RUN 28
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 1.00ms
+
+RUN 29
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 0.00ms
+
+RUN 30
+(10000/10000) Values Verified.
+ELAPSED (x86-64): 0.00ms
+ELAPSED (C): 0.00ms
+
+"Y = 100000"
+Wrote 100000 samples in sample_input.txt.
+RUN 1
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 3.00ms
+ELAPSED (C): 2.00ms
+
+RUN 2
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 4.00ms
+ELAPSED (C): 2.00ms
+
+RUN 3
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 5.00ms
+ELAPSED (C): 1.00ms
+
+RUN 4
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 4.00ms
+
+RUN 5
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 1.00ms
+
+RUN 6
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 4.00ms
+ELAPSED (C): 2.00ms
+
+RUN 7
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 3.00ms
+ELAPSED (C): 2.00ms
+
+RUN 8
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 5.00ms
+
+RUN 9
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 3.00ms
+ELAPSED (C): 4.00ms
+
+RUN 10
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 3.00ms
+ELAPSED (C): 3.00ms
+
+RUN 11
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 3.00ms
+ELAPSED (C): 0.00ms
+
+RUN 12
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 4.00ms
+ELAPSED (C): 2.00ms
+
+RUN 13
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 5.00ms
+ELAPSED (C): 2.00ms
+
+RUN 14
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 3.00ms
+
+RUN 15
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 5.00ms
+ELAPSED (C): 3.00ms
+
+RUN 16
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 4.00ms
+ELAPSED (C): 4.00ms
+
+RUN 17
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 2.00ms
+
+RUN 18
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 3.00ms
+
+RUN 19
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 5.00ms
+ELAPSED (C): 1.00ms
+
+RUN 20
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 3.00ms
+
+RUN 21
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 3.00ms
+ELAPSED (C): 1.00ms
+
+RUN 22
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 2.00ms
+
+RUN 23
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 5.00ms
+ELAPSED (C): 2.00ms
+
+RUN 24
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 3.00ms
+ELAPSED (C): 3.00ms
+
+RUN 25
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 4.00ms
+ELAPSED (C): 1.00ms
+
+RUN 26
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 2.00ms
+
+RUN 27
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 3.00ms
+ELAPSED (C): 3.00ms
+
+RUN 28
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 3.00ms
+
+RUN 29
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 1.00ms
+ELAPSED (C): 4.00ms
+
+RUN 30
+(99996/100000) Values Verified.
+ELAPSED (x86-64): 2.00ms
+ELAPSED (C): 2.00ms
+
+"Y = 1000000"
+Wrote 1000000 samples in sample_input.txt.
+RUN 1
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 31.00ms
+ELAPSED (C): 23.00ms
+
+RUN 2
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 30.00ms
+ELAPSED (C): 19.00ms
+
+RUN 3
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 36.00ms
+ELAPSED (C): 31.00ms
+
+RUN 4
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 32.00ms
+ELAPSED (C): 20.00ms
+
+RUN 5
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 25.00ms
+ELAPSED (C): 29.00ms
+
+RUN 6
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 30.00ms
+ELAPSED (C): 26.00ms
+
+RUN 7
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 27.00ms
+ELAPSED (C): 22.00ms
+
+RUN 8
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 33.00ms
+ELAPSED (C): 25.00ms
+
+RUN 9
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 22.00ms
+ELAPSED (C): 25.00ms
+
+RUN 10
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 32.00ms
+ELAPSED (C): 21.00ms
+
+RUN 11
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 29.00ms
+ELAPSED (C): 22.00ms
+
+RUN 12
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 29.00ms
+ELAPSED (C): 29.00ms
+
+RUN 13
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 33.00ms
+ELAPSED (C): 13.00ms
+
+RUN 14
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 30.00ms
+ELAPSED (C): 27.00ms
+
+RUN 15
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 25.00ms
+ELAPSED (C): 30.00ms
+
+RUN 16
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 24.00ms
+ELAPSED (C): 20.00ms
+
+RUN 17
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 28.00ms
+ELAPSED (C): 24.00ms
+
+RUN 18
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 33.00ms
+ELAPSED (C): 19.00ms
+
+RUN 19
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 25.00ms
+ELAPSED (C): 28.00ms
+
+RUN 20
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 22.00ms
+ELAPSED (C): 26.00ms
+
+RUN 21
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 19.00ms
+ELAPSED (C): 24.00ms
+
+RUN 22
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 30.00ms
+ELAPSED (C): 32.00ms
+
+RUN 23
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 34.00ms
+ELAPSED (C): 28.00ms
+
+RUN 24
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 27.00ms
+ELAPSED (C): 22.00ms
+
+RUN 25
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 32.00ms
+ELAPSED (C): 21.00ms
+
+RUN 26
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 25.00ms
+ELAPSED (C): 23.00ms
+
+RUN 27
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 36.00ms
+ELAPSED (C): 24.00ms
+
+RUN 28
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 37.00ms
+ELAPSED (C): 16.00ms
+
+RUN 29
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 32.00ms
+ELAPSED (C): 27.00ms
+
+RUN 30
+(999984/1000000) Values Verified.
+ELAPSED (x86-64): 24.00ms
+ELAPSED (C): 25.00ms
+
+"Y = 10000000"
+Wrote 10000000 samples in sample_input.txt.
+RUN 1
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 307.00ms
+ELAPSED (C): 248.00ms
+
+RUN 2
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 267.00ms
+ELAPSED (C): 265.00ms
+
+RUN 3
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 287.00ms
+ELAPSED (C): 242.00ms
+
+RUN 4
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 292.00ms
+ELAPSED (C): 212.00ms
+
+RUN 5
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 289.00ms
+ELAPSED (C): 260.00ms
+
+RUN 6
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 306.00ms
+ELAPSED (C): 234.00ms
+
+RUN 7
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 283.00ms
+ELAPSED (C): 257.00ms
+
+RUN 8
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 283.00ms
+ELAPSED (C): 216.00ms
+
+RUN 9
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 286.00ms
+ELAPSED (C): 238.00ms
+
+RUN 10
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 292.00ms
+ELAPSED (C): 232.00ms
+
+RUN 11
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 292.00ms
+ELAPSED (C): 216.00ms
+
+RUN 12
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 286.00ms
+ELAPSED (C): 233.00ms
+
+RUN 13
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 286.00ms
+ELAPSED (C): 234.00ms
+
+RUN 14
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 282.00ms
+ELAPSED (C): 218.00ms
+
+RUN 15
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 287.00ms
+ELAPSED (C): 209.00ms
+
+RUN 16
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 281.00ms
+ELAPSED (C): 226.00ms
+
+RUN 17
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 297.00ms
+ELAPSED (C): 235.00ms
+
+RUN 18
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 299.00ms
+ELAPSED (C): 259.00ms
+
+RUN 19
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 292.00ms
+ELAPSED (C): 249.00ms
+
+RUN 20
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 297.00ms
+ELAPSED (C): 206.00ms
+
+RUN 21
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 288.00ms
+ELAPSED (C): 221.00ms
+
+RUN 22
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 278.00ms
+ELAPSED (C): 253.00ms
+
+RUN 23
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 276.00ms
+ELAPSED (C): 220.00ms
+
+RUN 24
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 295.00ms
+ELAPSED (C): 214.00ms
+
+RUN 25
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 281.00ms
+ELAPSED (C): 238.00ms
+
+RUN 26
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 327.00ms
+ELAPSED (C): 225.00ms
+
+RUN 27
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 306.00ms
+ELAPSED (C): 225.00ms
+
+RUN 28
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 290.00ms
+ELAPSED (C): 230.00ms
+
+RUN 29
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 269.00ms
+ELAPSED (C): 235.00ms
+
+RUN 30
+(9999823/10000000) Values Verified.
+ELAPSED (x86-64): 294.00ms
+ELAPSED (C): 224.00ms
