@@ -59,6 +59,10 @@ Input format is as follows:
 
 As expected, the runtime gets longer the more function calls there are. Based on the chart, it grows linearly as can be seen with the average times. 
 
+### Testing
+
+The files were tested using a batch script that ran each file 30 times for Y = 10 .. 10000000. The results were then manually calculated to find average and output ranges. The runs and times can be seen in `runs.txt`.
+
 ### Screenshots
 
 ![image](https://github.com/user-attachments/assets/fd3592e6-01b9-4d05-8659-8083e5f59a10)
