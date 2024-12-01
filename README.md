@@ -14,9 +14,8 @@ Download or clone this project into a directory of your choice.
 
 ## Running
 
-For Visual Studio users, run or debug the program using your selected compiler. Note: you will need `nasm.exe` in your PATH for this to work. This will build the program and wait for input. 
-
-For building in a terminal with make, run `make` then `./main.exe` to achieve the same effect.
+For Visual Studio users, run or debug the program using your selected compiler. Note: you will need `nasm.exe` and `gcc` in your PATH or compiler settings for this to work. This will build the program and wait for input.   
+To generate samples, compile and run `make_samples.c` using any method and pass the amount of samples as a CLI argument. This creates a `sample_input.txt` that you can pipe into `main.exe`.
 
 ### Input format
 Input format is as follows:
