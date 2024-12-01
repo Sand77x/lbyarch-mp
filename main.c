@@ -34,7 +34,8 @@ int main()
     // print acceleration per row
     int correct = 0;
     clock_t start, end;
-    double total_elapsed = 0;
+    double elapsed_c = 0;
+    double elapsed_asm = 0;
     for (int i = 0; i < Y; i++) {
         float vi = matrix[i][0];
         float vf = matrix[i][1];
@@ -44,21 +45,27 @@ int main()
         start = clock(); // start timer
         int accel = get_acceleration(vi, vf, t);
         end = clock(); // end timer
-        total_elapsed += (double)(end - start) * 1000 / CLOCKS_PER_SEC; // add time to total
+        elapsed_asm += (double)(end - start) * 1000 / CLOCKS_PER_SEC; // add time to total
         // --------------------
 
-        // sanity check
+        // ----C impl-----
+        start = clock(); // start timer
         int truth = sanity_check(vi, vf, t);
+        end = clock(); // end timer
+        elapsed_c += (double)(end - start) * 1000 / CLOCKS_PER_SEC; // add time to total
+        // ---------------
+
         if (accel == truth) {
             correct++; // inc correct counter
-            printf("%d (v)\n", accel);
+            /* printf("%d (v)\n", accel); */
         } else {
-            printf("%d (should be %d)\n", accel, truth);
+            /* printf("%d (should be %d)\n", accel, truth); */
         }
     }
 
     printf("(%d/%d) Values Verified.\n", correct, Y);
-    printf("ELAPSED: %.2lfms\n", total_elapsed);
+    printf("ELAPSED (x86-64): %.2lfms\n", elapsed_asm);
+    printf("ELAPSED (C): %.2lfms\n", elapsed_c);
 
     // free mallocd pointers
     for (int i = 0; i < Y; i++) {
