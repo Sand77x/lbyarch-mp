@@ -15,7 +15,28 @@ Download or clone this project into a directory of your choice.
 ## Running
 
 For Visual Studio users, run or debug the program using your selected compiler. Note: you will need `nasm.exe` and `gcc` in your PATH or compiler settings for this to work. This will build the program and wait for input.   
+
 To generate samples, compile and run `make_samples.c` using any method and pass the amount of samples as a CLI argument. This creates a `sample_input.txt` that you can pipe into `main.exe`.
+
+```
+gcc make_samples.c -o make_samples.exe
+```
+After, to generate 100 samples for example, punch in: 
+```
+make_samples.exe 100
+```
+This will generate a valid random input that can be piped into main in sample_input.txt 
+
+To compile the main C file and the Assembly function, enter the following commands.
+```
+gcc -c main.c -o main.o
+nasm -fwin64 func.asm -o func.o
+gcc main.o func.o -o main.exe
+```
+You can run main.exe manually as expected, punching in manual inputs, or you can pipe in sample_inputs.txt with thw following command
+```
+main.exe <sample_input.txt
+```
 
 ### Input format
 Input format is as follows:
