@@ -6,7 +6,7 @@ A program that calculates the acceleration of multiple cars given `initial veloc
 
 __Authors__: Rendell Ngo & Rydel Lim  
 __Date Submitted__: 12/1/24  
-__Video__: https://youtu.be/RwF4CC1teZ4
+__Video__: [https://youtu.be/MSQkEwf9_wk](https://youtu.be/MSQkEwf9_wk)
 
 ## Installation
 
@@ -64,7 +64,8 @@ Ex.
 | 10000000 | 289.83       | 267.00 - 327.00 | 232.47  | 206.00 - 265.00 |
 ### Analysis
 
-As expected, the runtime gets longer the more function calls there are. Based on the chart, it grows linearly as can be seen with the average times. 
+Note: we chose to include tests past Y=10,000 because the differences were barely noticable and it was difficult to make meaningful judgement otherwise.
+As expected, the runtime gets longer the more function calls there are. Based on the chart, it grows linearly as can be seen with the average times. What is surprising is that even though Assembly is supposed to give programmers more control over the hardware, C code was still consistently faster. However, we did a preliminary test on a different, lower-end laptop, where the C code nearly tripled in execution time and Assembly code remained the same speed, becoming faster. This points to different methodologies being preferable based on the environment they are being executed in, and that one is not inherently better or more efficient than the other. 
 
 ### Testing
 
