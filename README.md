@@ -1,6 +1,6 @@
 # C Assembly Interface LBYARCH Machine Project
 
-A program that calculates the acceleration of multiple cars given `initial velocity (km/h)`, `final velocity (km/h)`,  and `time (s)` 
+A program that calculates the acceleration of multiple cars given `initial velocity (km/h)`, `final velocity (km/h)`,  and `time (s)`.
 
 ## Project details
 
@@ -25,16 +25,15 @@ Input format is as follows:
 
 ## Execution times (in ms)
 
-| Y        | Avg (x86-64) | Range (x86-64) | Avg (C) | Range (C) |
-| -------- | ------------ | -------------- | ------- | --------- |
-| 10       | 0            | 0 - 0          | 0       | 0 - 0     |
-| 100      | 0      | 0       | 0      |
-| 1000     | 0      | 0       | 0      |
-| 10000    | 0.33   | 1       | 0      |
-| 100000   | 2.67   | 5       | 0      |
-| 1000000  | 29.17  | 40      | 24     |
-| 10000000 | 286.77 | 321     | 259    |
-
+| Y        | Avg (x86-64) | Range (x86-64)  | Avg (C) | Range (C)       |
+| -------- | ------------ | --------------- | ------- | --------------- |
+| 10       | 0            | 0 - 0           | 0       | 0 - 0           |
+| 100      | 0            | 0 - 0           | 0       | 0 - 0           |
+| 1000     | 0            | 0 - 0           | 0       | 0 - 0           |
+| 10000    | 0.33         | 0.00 - 1.00     | 0.20    | 0.00 - 1.00     |
+| 100000   | 3.00         | 1.00 - 5.00     | 2.40    | 0.00 - 5.00     |
+| 1000000  | 29.07        | 19.00 - 37.00   | 0       | 0 - 0           |
+| 10000000 | 289.83       | 267.00 - 327.00 | 0       | 0 - 0           |
 ### Analysis
 
 As expected, the runtime gets longer the more function calls there are. Based on the chart, it grows linearly as can be seen with the average times. 
