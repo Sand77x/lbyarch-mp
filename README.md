@@ -27,16 +27,17 @@ make_samples.exe 100
 ```
 This will generate a valid random input that can be piped into main in sample_input.txt 
 
-To compile the main C file and the Assembly function, enter the following commands.
+To compile the main C file and the asm file, enter the following commands.
 ```
 gcc -c main.c -o main.o
 nasm -fwin64 func.asm -o func.o
 gcc main.o func.o -o main.exe
 ```
-You can run main.exe manually as expected, punching in manual inputs, or you can pipe in sample_inputs.txt with thw following command
+You can run main.exe manually as expected, punching in manual inputs, or you can pipe in sample_inputs.txt with the following command.
 ```
-main.exe <sample_input.txt
+main.exe < sample_input.txt
 ```
+__Note__: Both executables (main and make_samples) are in the `dist` folder, run them if you don't want to compile the source code manually.  
 
 ### Input format
 Input format is as follows:
