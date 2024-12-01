@@ -26,9 +26,7 @@ int main()
 
     // get input from stdin
     for (int i = 0; i < Y; i++) {
-        for (int j = 0; j < COLUMN_SIZE; j++) {
-            scanf_s("%f", &matrix[i][j]);
-        }
+        scanf_s("%f, %f, %f", &matrix[i][0], &matrix[i][1], &matrix[i][2]);
     }
 
     // print acceleration per row

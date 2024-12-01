@@ -34,7 +34,7 @@ int main(int argc, char* argv[])
             vi = RAND_FLOAT(40); // 0 - 40
             vf = 30 + RAND_FLOAT(300); // 30 - 330
             t = 1 + RAND_FLOAT(20); // 1 - 20
-            fprintf(f, "%.2f %.2f %.2f\n", vi, vf, t);
+            fprintf(f, "%.2f, %.2f, %.2f\n", vi, vf, t);
         }
 
         printf("Wrote %d samples in %s.\n", n_samples, PATHNAME);

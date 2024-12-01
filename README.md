@@ -42,7 +42,15 @@ __Note__: Both executables (main and make_samples) are in the `dist` folder, run
 ### Input format
 Input format is as follows:
 - one integer Y representing the number of rows of input  
-- then Y * 3 numbers representing the Vi, Vf, and T of each row (in that order)
+- then Y * 3 numbers representing the Vi, Vf, and T of each row (separated by commas)
+```
+
+Ex.  
+3  
+0.0, 62.5, 10.1  
+60.0, 122.3, 5.5  
+30.0, 160.7, 7.8  
+```
 
 ## Execution times (in ms)
 
