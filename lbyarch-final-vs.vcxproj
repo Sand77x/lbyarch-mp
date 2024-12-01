@@ -20,10 +20,21 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
-    <ClCompile Include="make_samples.c">
+    <None Include="make_samples.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
+      <FileType>CppCode</FileType>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">gcc make_samples.c -o "$(OutDir)\make_samples.exe"</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">gcc make_samples.c -o "$(OutDir)\make_samples.exe"</Command>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">make_samples.exe</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">make_samples.exe</Outputs>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</DeploymentContent>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <TreatOutputAsContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</TreatOutputAsContent>
+      <TreatOutputAsContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</TreatOutputAsContent>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="func.asm">
@@ -89,10 +100,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <OutDir>build</OutDir>
+    <OutDir>$(OutDir)</OutDir>
+    <TargetName>main</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <OutDir>build</OutDir>
+    <OutDir>$(OutDir)</OutDir>
+    <TargetName>main</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
