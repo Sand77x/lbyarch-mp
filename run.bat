@@ -1,5 +1,7 @@
 @echo off
 
+make
+
 echo "Y = 10"
 make -s samples N_SAMPLES=10
 for /l %%x in (1, 1, 30) do (
